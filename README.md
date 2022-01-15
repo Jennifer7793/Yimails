@@ -39,3 +39,5 @@ You’ve got yimail!
 - 🥅 2021目標:順利完成Demo Day!希望同學們都轉職成功
 
 #### 幕後推手: 鄭詩諺、鄧皓澤、陳怡璇、吳佳怡、林怡禎下台一鞠躬
+<img width="917" alt="image" src="https://user-images.githubusercontent.com/92965935/149616468-60fec0f1-0f8c-4ae2-b371-c2234ecc1a6b.png">
+
