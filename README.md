@@ -12,13 +12,28 @@ You’ve got yimail!
 
 ### 請跟著我們的腳步一起探索Yimail的世界:
 
-#### 為增進使用者體驗，採彈跳視窗撰寫新信件
+#### 1. 會員系統，清楚簡易的介面，輕鬆註冊後登入
+![devise](https://user-images.githubusercontent.com/92965935/150918829-5314375b-23e5-4323-bc93-ce35b68530b4.gif)
+
+#### 2. 新註冊會員都會收到一封歡迎信
+![welcome letter](https://user-images.githubusercontent.com/92965935/150918792-df61fd87-026a-4e26-b875-a6fa0a199690.gif)
+
+#### 3. 為增進使用者體驗，採彈跳視窗撰寫新信件
 ![gif](https://user-images.githubusercontent.com/92965935/149614737-de9ef222-7903-4699-b0f6-28dc0f873b2d.gif)
 
-#### 可將喜愛欲收藏的信件加上星號，介面選擇中英文都通
-![star](https://user-images.githubusercontent.com/92965935/149614999-fc397833-ea7a-4035-a42a-e6356449c03a.gif)
+#### 4. 搜尋功能並可將喜愛欲收藏的信件加上星號
+![search+star](https://user-images.githubusercontent.com/92965935/150919267-29721a2d-8583-4fbc-8d0a-57a0272aab21.gif)
 
-#### 導覽列的背景變化，點選後可清楚知道目前所在位置，已讀及未讀一眼就能分辨
+#### 5. 可自訂標籤整理信件
+![create tag](https://user-images.githubusercontent.com/92965935/150921144-6b62cae0-dfcd-4f8b-a490-53cd0006b791.gif)
+
+#### 6. 刪除標籤，子標籤也會一併刪除喔
+![delete tag](https://user-images.githubusercontent.com/92965935/150922280-98d5f044-b7e8-4e5b-93a3-4de95d6a75ec.gif)
+
+#### 7. 介面選擇中英文都通
+![star](https://user-images.githubusercontent.com/92965935/150919738-017bfec9-fb09-4f9c-9621-baf6986a8405.gif)
+
+#### 8. 導覽列的背景變化，點選後可清楚知道目前所在位置，已讀及未讀一眼就能分辨
 ![Hover n click](https://user-images.githubusercontent.com/92965935/149900926-ef06696b-44af-43fd-bd25-7aeea47d7687.gif)
 
 
